@@ -5,8 +5,10 @@ machine: "intel-corei7-64"
 
 repos:
   intel:
-    url: "https://git.yoctoproject.org/meta-intel"
-    branch: "kirkstone"
+#    url: "https://git.yoctoproject.org/meta-intel"
+    url: "https://github.com/repu1sion/meta-intel.git"
+#    branch: "kirkstone"
+    branch: "pls_kirkstone"
     path: "layers/meta-intel"
 #    layers:
 #      meta-intel:

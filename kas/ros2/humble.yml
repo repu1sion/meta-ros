@@ -5,7 +5,9 @@ distro: "ros2"
 
 repos:
   ros:
-    url: "https://github.com/ros/meta-ros.git"
+#    url: "https://github.com/ros/meta-ros.git"
+    url: "https://github.com/repu1sion/meta-ros.git"
+    branch: "pls_kirkstone"
     path: "layers/meta-ros"
     layers:
       meta-ros-common:

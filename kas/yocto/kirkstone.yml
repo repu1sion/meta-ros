@@ -30,4 +30,4 @@ repos:
       meta-python:
 
   ros:
-    branch: "kirkstone"
+    branch: "pls_kirkstone"
