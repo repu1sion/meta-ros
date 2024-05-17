@@ -15,4 +15,5 @@ IMAGE_INSTALL:append = " \
     coreutils \
     iw \
     wpa-supplicant \
+    pciutils \
 "
